@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1052439683829",
+    "project_id": "quizdog-67c3d",
+    "storage_bucket": "quizdog-67c3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052439683829:android:33a8d6ae83e5cf7069dbbc",
+        "android_client_info": {
+          "package_name": "com.moon.quizdog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052439683829-0u9em1n82kansbhjgssdmum9cadteomr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moon.quizdog",
+            "certificate_hash": "ab2e547f57cbb4215b27ee18d118f08d3779f506"
+          }
+        },
+        {
+          "client_id": "1052439683829-e8d15910irgdn93g2m86ctpsg04uk8hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi_YbZokGW-2WGtrQvmWofzGb2ioFMPcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052439683829-e8d15910irgdn93g2m86ctpsg04uk8hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
